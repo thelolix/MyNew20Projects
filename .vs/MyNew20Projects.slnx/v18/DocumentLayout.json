@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|c:\\users\\musta\\source\\repos\\mynew20projects\\project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project1_adonetcustomer\\frmcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project1_adonetcustomer\\frmcity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project1_adonetcustomer\\frmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project1_adonetcustomer\\frmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project1_adonetcustomer\\frmcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project1_adonetcustomer\\frmmap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmmap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCity.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCity.cs",
+              "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmCity.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCity.cs",
+              "RelativeToolTip": "Project1_Adonetcustomer\\FrmCity.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwF8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T18:15:26.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmCustomer.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCustomer.cs",
+              "RelativeToolTip": "Project1_Adonetcustomer\\FrmCustomer.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAIwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T18:15:51.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmCustomer.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCustomer.cs [Design]",
+              "RelativeToolTip": "Project1_Adonetcustomer\\FrmCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T17:50:43.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmCity.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCity.cs",
+              "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmCity.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCity.cs [Design]",
+              "RelativeToolTip": "Project1_Adonetcustomer\\FrmCity.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T12:04:42.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMap.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmMap.cs",
+              "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmMap.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmMap.cs",
+              "RelativeToolTip": "Project1_Adonetcustomer\\FrmMap.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T18:09:06.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmMap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmMap.cs",
+              "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmMap.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmMap.cs [Design]",
+              "RelativeToolTip": "Project1_Adonetcustomer\\FrmMap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:53:56.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCity.Designer.cs",
+              "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmCity.Designer.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCity.Designer.cs",
+              "RelativeToolTip": "Project1_Adonetcustomer\\FrmCity.Designer.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAASwM0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T17:42:22.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmMap.Designer.cs",
+              "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmMap.Designer.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmMap.Designer.cs",
+              "RelativeToolTip": "Project1_Adonetcustomer\\FrmMap.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T16:26:16.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

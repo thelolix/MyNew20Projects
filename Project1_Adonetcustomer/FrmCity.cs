@@ -38,8 +38,6 @@ namespace Project1_Adonetcustomer
 
             command.Parameters.AddWithValue("@cityName", txtCityName.Text);
             command.Parameters.AddWithValue("@cityCountry", txtCityCountry.Text);
-
-            // DÜZELTME: ID değerini int tipine dönüştürerek gönderiyoruz (Çalışmama sebebi buydu)
             command.Parameters.AddWithValue("@cityId", Convert.ToInt32(txtCityId.Text));
 
             int etkilenenSatir = command.ExecuteNonQuery();

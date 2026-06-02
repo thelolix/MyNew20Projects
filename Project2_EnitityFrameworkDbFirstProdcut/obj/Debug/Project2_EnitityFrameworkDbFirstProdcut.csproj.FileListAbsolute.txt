@@ -1,0 +1,16 @@
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\obj\Debug\Project2_EnitityFrameworkDbFirstProdcut.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\obj\Debug\Project2_EnitityFrameworkDbFirstProdcut.FrnCategory.resources
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\obj\Debug\Project2_EnitityFrameworkDbFirstProdcut.Properties.Resources.resources
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\obj\Debug\Project2_EnitityFrameworkDbFirstProdcut.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\obj\Debug\Project2_EnitityFrameworkDbFirstProdcut.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\bin\Debug\Project2_EnitityFrameworkDbFirstProdcut.exe.config
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\bin\Debug\Project2_EnitityFrameworkDbFirstProdcut.exe
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\bin\Debug\Project2_EnitityFrameworkDbFirstProdcut.pdb
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\bin\Debug\EntityFramework.dll
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\bin\Debug\EntityFramework.xml
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\obj\Debug\Project2.D60F5CEF.Up2Date
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\obj\Debug\Project2_EnitityFrameworkDbFirstProdcut.exe
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\obj\Debug\Project2_EnitityFrameworkDbFirstProdcut.pdb
+C:\Users\musta\source\repos\MyNew20Projects\Project2_EnitityFrameworkDbFirstProdcut\obj\Debug\Project2_EnitityFrameworkDbFirstProdcut.FrmProdcut.resources

@@ -99,7 +99,7 @@ Panel üzerinde tamamen dinamik olarak hesaplanan ve anlık güncellenen metrikl
 
 ## 👥 İletişim & Portfolyo
 * **Geliştirici:** Mustafa Talha Yılmaz  
-* **LinkedIn:** [Mustafa Talha Yılmaz](https://www.linkedin.com/in/mustafatalhayilmaz/)  
+* **LinkedIn:** [Mustafa Talha Yılmaz](https://www.linkedin.com/in/mustafa-talha-y%C4%B1lmaz-11bb49255/)  
 * **E-Posta:** mustafatalha311@gmail.com
 
 ## ⚙️ Nasıl Çalıştırılır?

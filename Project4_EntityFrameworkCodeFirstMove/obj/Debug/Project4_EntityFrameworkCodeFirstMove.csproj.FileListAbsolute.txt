@@ -1,0 +1,17 @@
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\bin\Debug\Project4_EntityFrameworkCodeFirstMove.exe.config
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\bin\Debug\Project4_EntityFrameworkCodeFirstMove.exe
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\bin\Debug\Project4_EntityFrameworkCodeFirstMove.pdb
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\bin\Debug\EntityFramework.dll
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\bin\Debug\EntityFramework.xml
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\obj\Debug\Project4_EntityFrameworkCodeFirstMove.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\obj\Debug\Project4_EntityFrameworkCodeFirstMove.Properties.Resources.resources
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\obj\Debug\Project4_EntityFrameworkCodeFirstMove.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\obj\Debug\Project4_EntityFrameworkCodeFirstMove.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\obj\Debug\Project4.7341DDCF.Up2Date
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\obj\Debug\Project4_EntityFrameworkCodeFirstMove.exe
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\obj\Debug\Project4_EntityFrameworkCodeFirstMove.pdb
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\obj\Debug\Project4_EntityFrameworkCodeFirstMove.Migrations.mig1.resources
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\obj\Debug\Project4_EntityFrameworkCodeFirstMove.Form1.resources
+C:\Users\musta\source\repos\MyNew20Projects\Project4_EntityFrameworkCodeFirstMove\obj\Debug\Project4_EntityFrameworkCodeFirstMove.frmMovie.resources

@@ -3,11 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDBA2CB6-8E1C-4D4B-8C8F-0116638E1CE0}|Project3_EntityFrameWorkStatistics\\Project3_EntityFrameWorkStatistics.csproj|c:\\users\\musta\\source\\repos\\mynew20projects\\project3_entityframeworkstatistics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|c:\\users\\musta\\source\\repos\\mynew20projects\\project1_adonetcustomer\\frmcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project1_adonetcustomer\\frmcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6472BE1-29D3-4C47-A968-C02E115043FA}|Project4_EntityFrameworkCodeFirstMove\\Project4_EntityFrameworkCodeFirstMove.csproj|c:\\users\\musta\\source\\repos\\mynew20projects\\project4_entityframeworkcodefirstmove\\frmmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6472BE1-29D3-4C47-A968-C02E115043FA}|Project4_EntityFrameworkCodeFirstMove\\Project4_EntityFrameworkCodeFirstMove.csproj|solutionrelative:project4_entityframeworkcodefirstmove\\frmmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6472BE1-29D3-4C47-A968-C02E115043FA}|Project4_EntityFrameworkCodeFirstMove\\Project4_EntityFrameworkCodeFirstMove.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project4_entityframeworkcodefirstmove\\frmmovie.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6472BE1-29D3-4C47-A968-C02E115043FA}|Project4_EntityFrameworkCodeFirstMove\\Project4_EntityFrameworkCodeFirstMove.csproj|solutionrelative:project4_entityframeworkcodefirstmove\\frmmovie.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6472BE1-29D3-4C47-A968-C02E115043FA}|Project4_EntityFrameworkCodeFirstMove\\Project4_EntityFrameworkCodeFirstMove.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project4_entityframeworkcodefirstmove\\frmmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6472BE1-29D3-4C47-A968-C02E115043FA}|Project4_EntityFrameworkCodeFirstMove\\Project4_EntityFrameworkCodeFirstMove.csproj|solutionrelative:project4_entityframeworkcodefirstmove\\frmmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6472BE1-29D3-4C47-A968-C02E115043FA}|Project4_EntityFrameworkCodeFirstMove\\Project4_EntityFrameworkCodeFirstMove.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project4_entityframeworkcodefirstmove\\dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6472BE1-29D3-4C47-A968-C02E115043FA}|Project4_EntityFrameworkCodeFirstMove\\Project4_EntityFrameworkCodeFirstMove.csproj|solutionrelative:project4_entityframeworkcodefirstmove\\dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6472BE1-29D3-4C47-A968-C02E115043FA}|Project4_EntityFrameworkCodeFirstMove\\Project4_EntityFrameworkCodeFirstMove.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project4_entityframeworkcodefirstmove\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F6472BE1-29D3-4C47-A968-C02E115043FA}|Project4_EntityFrameworkCodeFirstMove\\Project4_EntityFrameworkCodeFirstMove.csproj|solutionrelative:project4_entityframeworkcodefirstmove\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6472BE1-29D3-4C47-A968-C02E115043FA}|Project4_EntityFrameworkCodeFirstMove\\Project4_EntityFrameworkCodeFirstMove.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project4_entityframeworkcodefirstmove\\dal\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6472BE1-29D3-4C47-A968-C02E115043FA}|Project4_EntityFrameworkCodeFirstMove\\Project4_EntityFrameworkCodeFirstMove.csproj|solutionrelative:project4_entityframeworkcodefirstmove\\dal\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081A6F5-5589-4415-B97A-5A16E8FDF033}|Project2_EnitityFrameworkDbFirstProdcut\\Project2_EnitityFrameworkDbFirstProdcut.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project2_enitityframeworkdbfirstprodcut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081A6F5-5589-4415-B97A-5A16E8FDF033}|Project2_EnitityFrameworkDbFirstProdcut\\Project2_EnitityFrameworkDbFirstProdcut.csproj|solutionrelative:project2_enitityframeworkdbfirstprodcut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBA2CB6-8E1C-4D4B-8C8F-0116638E1CE0}|Project3_EntityFrameWorkStatistics\\Project3_EntityFrameWorkStatistics.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project3_entityframeworkstatistics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDBA2CB6-8E1C-4D4B-8C8F-0116638E1CE0}|Project3_EntityFrameWorkStatistics\\Project3_EntityFrameWorkStatistics.csproj|solutionrelative:project3_entityframeworkstatistics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDBA2CB6-8E1C-4D4B-8C8F-0116638E1CE0}|Project3_EntityFrameWorkStatistics\\Project3_EntityFrameWorkStatistics.csproj|c:\\users\\musta\\source\\repos\\mynew20projects\\project3_entityframeworkstatistics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FDBA2CB6-8E1C-4D4B-8C8F-0116638E1CE0}|Project3_EntityFrameWorkStatistics\\Project3_EntityFrameWorkStatistics.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project3_entityframeworkstatistics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FDBA2CB6-8E1C-4D4B-8C8F-0116638E1CE0}|Project3_EntityFrameWorkStatistics\\Project3_EntityFrameWorkStatistics.csproj|solutionrelative:project3_entityframeworkstatistics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -39,18 +83,6 @@
       "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project1_adonetcustomer\\frmcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project1_adonetcustomer\\frmcity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F932AFF7-E93C-45E5-8755-CE612B6210FB}|Project1_Adonetcustomer\\Project1_Adonetcustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -66,36 +98,168 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "FrmCity.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCity.cs",
+              "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmCity.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCity.cs",
+              "RelativeToolTip": "Project1_Adonetcustomer\\FrmCity.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAApwFgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T10:55:29.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMovie.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_EntityFrameworkCodeFirstMove\\frmMovie.cs",
+              "RelativeDocumentMoniker": "Project4_EntityFrameworkCodeFirstMove\\frmMovie.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_EntityFrameworkCodeFirstMove\\frmMovie.cs",
+              "RelativeToolTip": "Project4_EntityFrameworkCodeFirstMove\\frmMovie.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T14:48:05.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_EntityFrameworkCodeFirstMove\\App.config",
+              "RelativeDocumentMoniker": "Project4_EntityFrameworkCodeFirstMove\\App.config",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_EntityFrameworkCodeFirstMove\\App.config",
+              "RelativeToolTip": "Project4_EntityFrameworkCodeFirstMove\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-06T11:55:15.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_EntityFrameworkCodeFirstMove\\DAL\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "Project4_EntityFrameworkCodeFirstMove\\DAL\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_EntityFrameworkCodeFirstMove\\DAL\\Entities\\Movie.cs",
+              "RelativeToolTip": "Project4_EntityFrameworkCodeFirstMove\\DAL\\Entities\\Movie.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T12:54:03.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project2_EnitityFrameworkDbFirstProdcut\\Program.cs",
+              "RelativeDocumentMoniker": "Project2_EnitityFrameworkDbFirstProdcut\\Program.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project2_EnitityFrameworkDbFirstProdcut\\Program.cs",
+              "RelativeToolTip": "Project2_EnitityFrameworkDbFirstProdcut\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:02:39.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project3_EntityFrameWorkStatistics\\Form1.cs",
               "RelativeDocumentMoniker": "Project3_EntityFrameWorkStatistics\\Form1.cs",
               "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project3_EntityFrameWorkStatistics\\Form1.cs",
               "RelativeToolTip": "Project3_EntityFrameWorkStatistics\\Form1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAkwIEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwIEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T13:45:04.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T13:45:04.934Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FrmCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmCustomer.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCustomer.cs [Design]",
+              "RelativeToolTip": "Project1_Adonetcustomer\\FrmCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T17:50:43.166Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmCustomer.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCustomer.cs",
+              "RelativeToolTip": "Project1_Adonetcustomer\\FrmCustomer.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwHQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T18:15:51.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_EntityFrameworkCodeFirstMove\\DAL\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Project4_EntityFrameworkCodeFirstMove\\DAL\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_EntityFrameworkCodeFirstMove\\DAL\\Entities\\Category.cs",
+              "RelativeToolTip": "Project4_EntityFrameworkCodeFirstMove\\DAL\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T12:23:57.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMovie.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_EntityFrameworkCodeFirstMove\\frmMovie.cs",
+              "RelativeDocumentMoniker": "Project4_EntityFrameworkCodeFirstMove\\frmMovie.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_EntityFrameworkCodeFirstMove\\frmMovie.cs [Design]",
+              "RelativeToolTip": "Project4_EntityFrameworkCodeFirstMove\\frmMovie.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T13:47:24.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCity.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCity.cs",
+              "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmCity.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCity.cs [Design]",
+              "RelativeToolTip": "Project1_Adonetcustomer\\FrmCity.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T12:04:42.153Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMovie.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_EntityFrameworkCodeFirstMove\\frmMovie.Designer.cs",
+              "RelativeDocumentMoniker": "Project4_EntityFrameworkCodeFirstMove\\frmMovie.Designer.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_EntityFrameworkCodeFirstMove\\frmMovie.Designer.cs",
+              "RelativeToolTip": "Project4_EntityFrameworkCodeFirstMove\\frmMovie.Designer.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAgwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T16:26:18.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project3_EntityFrameWorkStatistics\\Form1.cs",
               "RelativeDocumentMoniker": "Project3_EntityFrameWorkStatistics\\Form1.cs",
               "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project3_EntityFrameWorkStatistics\\Form1.cs [Design]",
               "RelativeToolTip": "Project3_EntityFrameWorkStatistics\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T13:19:17.377Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-04T13:19:17.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "FrmProdcut.cs",
               "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project2_EnitityFrameworkDbFirstProdcut\\FrmProdcut.cs",
               "RelativeDocumentMoniker": "Project2_EnitityFrameworkDbFirstProdcut\\FrmProdcut.cs",
@@ -103,24 +267,22 @@
               "RelativeToolTip": "Project2_EnitityFrameworkDbFirstProdcut\\FrmProdcut.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAADwvxIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T10:21:24.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T10:21:24.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "FrmProdcut.cs [Design]",
               "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project2_EnitityFrameworkDbFirstProdcut\\FrmProdcut.cs",
               "RelativeDocumentMoniker": "Project2_EnitityFrameworkDbFirstProdcut\\FrmProdcut.cs",
               "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project2_EnitityFrameworkDbFirstProdcut\\FrmProdcut.cs [Design]",
               "RelativeToolTip": "Project2_EnitityFrameworkDbFirstProdcut\\FrmProdcut.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T10:11:34.213Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-02T10:11:34.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "FrnCategory.cs",
               "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project2_EnitityFrameworkDbFirstProdcut\\FrnCategory.cs",
               "RelativeDocumentMoniker": "Project2_EnitityFrameworkDbFirstProdcut\\FrnCategory.cs",
@@ -132,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "FrnCategory.cs [Design]",
               "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project2_EnitityFrameworkDbFirstProdcut\\FrnCategory.cs",
               "RelativeDocumentMoniker": "Project2_EnitityFrameworkDbFirstProdcut\\FrnCategory.cs",
@@ -143,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\Program.cs",
               "RelativeDocumentMoniker": "Project1_Adonetcustomer\\Program.cs",
@@ -155,41 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FrmCustomer.cs",
-              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCustomer.cs",
-              "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmCustomer.cs",
-              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCustomer.cs",
-              "RelativeToolTip": "Project1_Adonetcustomer\\FrmCustomer.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T18:15:51.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FrmCustomer.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCustomer.cs",
-              "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmCustomer.cs",
-              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCustomer.cs [Design]",
-              "RelativeToolTip": "Project1_Adonetcustomer\\FrmCustomer.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T17:50:43.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FrmCity.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCity.cs",
-              "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmCity.cs",
-              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCity.cs [Design]",
-              "RelativeToolTip": "Project1_Adonetcustomer\\FrmCity.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T12:04:42.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "FrmMap.cs",
               "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmMap.cs",
               "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmMap.cs",
@@ -201,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "FrmMap.cs [Design]",
               "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmMap.cs",
               "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmMap.cs",
@@ -212,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "FrmCity.Designer.cs",
               "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmCity.Designer.cs",
               "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmCity.Designer.cs",
@@ -220,11 +348,12 @@
               "RelativeToolTip": "Project1_Adonetcustomer\\FrmCity.Designer.cs",
               "ViewState": "AgIAAJgAAAAAAAAAAAASwM0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T17:42:22.558Z"
+              "WhenOpened": "2026-05-22T17:42:22.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "FrmMap.Designer.cs",
               "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project1_Adonetcustomer\\FrmMap.Designer.cs",
               "RelativeDocumentMoniker": "Project1_Adonetcustomer\\FrmMap.Designer.cs",

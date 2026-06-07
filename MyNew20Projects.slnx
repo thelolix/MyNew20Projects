@@ -2,4 +2,5 @@
   <Project Path="Project1_Adonetcustomer/Project1_Adonetcustomer.csproj" Id="f932aff7-e93c-45e5-8755-ce612b6210fb" />
   <Project Path="Project2_EnitityFrameworkDbFirstProdcut/Project2_EnitityFrameworkDbFirstProdcut.csproj" Id="0081a6f5-5589-4415-b97a-5a16e8fdf033" />
   <Project Path="Project3_EntityFrameWorkStatistics/Project3_EntityFrameWorkStatistics.csproj" Id="fdba2cb6-8e1c-4d4b-8c8f-0116638e1ce0" />
+  <Project Path="Project4_EntityFrameworkCodeFirstMove/Project4_EntityFrameworkCodeFirstMove.csproj" Id="f6472be1-29d3-4c47-a968-c02e115043fa" />
 </Solution>

@@ -84,8 +84,6 @@ namespace Project1_Adonetcustomer
         {
             SqlConnection.Open();
             SqlCommand command = new SqlCommand("Delete from TblCity where CityId=@cityId", SqlConnection);
-
-            // DÜZELTME: Silme işleminde de ID'yi int tipine çeviriyoruz ve eksik olan '@' işaretini parametreye ekledik.
             command.Parameters.AddWithValue("@cityId", Convert.ToInt32(txtCityId.Text));
 
             int etkilenenSatir = command.ExecuteNonQuery();

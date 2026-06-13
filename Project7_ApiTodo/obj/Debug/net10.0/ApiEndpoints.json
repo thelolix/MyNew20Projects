@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "Project7_ApiTodo.Controllers.TodosController",
+    "Method": "TodoList",
+    "RelativePath": "api/Todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project7_ApiTodo.Controllers.TodosController",
+    "Method": "TodoListAdd",
+    "RelativePath": "api/Todos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "todo",
+        "Type": "Project7_ApiTodo.Entities.Todo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project7_ApiTodo.Controllers.TodosController",
+    "Method": "TodoDelete",
+    "RelativePath": "api/Todos",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "\u0131d",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project7_ApiTodo.Controllers.TodosController",
+    "Method": "TodoUpdate",
+    "RelativePath": "api/Todos",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "todo",
+        "Type": "Project7_ApiTodo.Entities.Todo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+C:\Users\musta\source\repos\MyNew20Projects\Project1_Adonetcustomer\bin\Debug\Project1_Adonetcustomer.exe.config
+C:\Users\musta\source\repos\MyNew20Projects\Project1_Adonetcustomer\bin\Debug\Project1_Adonetcustomer.exe
+C:\Users\musta\source\repos\MyNew20Projects\Project1_Adonetcustomer\bin\Debug\Project1_Adonetcustomer.pdb
+C:\Users\musta\source\repos\MyNew20Projects\Project1_Adonetcustomer\obj\Debug\Project1_Adonetcustomer.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project1_Adonetcustomer\obj\Debug\Project1_Adonetcustomer.FrmCity.resources
+C:\Users\musta\source\repos\MyNew20Projects\Project1_Adonetcustomer\obj\Debug\Project1_Adonetcustomer.FrmCustomer.resources
+C:\Users\musta\source\repos\MyNew20Projects\Project1_Adonetcustomer\obj\Debug\Project1_Adonetcustomer.FrmMap.resources
+C:\Users\musta\source\repos\MyNew20Projects\Project1_Adonetcustomer\obj\Debug\Project1_Adonetcustomer.Properties.Resources.resources
+C:\Users\musta\source\repos\MyNew20Projects\Project1_Adonetcustomer\obj\Debug\Project1_Adonetcustomer.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project1_Adonetcustomer\obj\Debug\Project1_Adonetcustomer.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project1_Adonetcustomer\obj\Debug\Project1_Adonetcustomer.exe
+C:\Users\musta\source\repos\MyNew20Projects\Project1_Adonetcustomer\obj\Debug\Project1_Adonetcustomer.pdb

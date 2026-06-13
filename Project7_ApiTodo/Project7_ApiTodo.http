@@ -1,0 +1,6 @@
+@Project7_ApiTodo_HostAddress = http://localhost:5215
+
+GET {{Project7_ApiTodo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

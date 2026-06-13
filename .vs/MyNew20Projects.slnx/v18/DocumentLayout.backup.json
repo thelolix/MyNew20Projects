@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{722E7A9F-46E6-4633-8C52-08AA9659A784}|Project4_DapperNorthand\\Project5_DapperNorthand.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project4_dappernorthand\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{722E7A9F-46E6-4633-8C52-08AA9659A784}|Project4_DapperNorthand\\Project5_DapperNorthand.csproj|solutionrelative:project4_dappernorthand\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9CC8646-F86B-4D4D-9E33-8447D9F18096}|Project7_ApiTodo\\Project7_ApiTodo.csproj|c:\\users\\musta\\source\\repos\\mynew20projects\\project7_apitodo\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CC8646-F86B-4D4D-9E33-8447D9F18096}|Project7_ApiTodo\\Project7_ApiTodo.csproj|solutionrelative:project7_apitodo\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{722E7A9F-46E6-4633-8C52-08AA9659A784}|Project4_DapperNorthand\\Project5_DapperNorthand.csproj|c:\\users\\musta\\source\\repos\\mynew20projects\\project4_dappernorthand\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{722E7A9F-46E6-4633-8C52-08AA9659A784}|Project4_DapperNorthand\\Project5_DapperNorthand.csproj|solutionrelative:project4_dappernorthand\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{722E7A9F-46E6-4633-8C52-08AA9659A784}|Project4_DapperNorthand\\Project5_DapperNorthand.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project4_dappernorthand\\repositories\\categoryrepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{722E7A9F-46E6-4633-8C52-08AA9659A784}|Project4_DapperNorthand\\Project5_DapperNorthand.csproj|solutionrelative:project4_dappernorthand\\repositories\\categoryrepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C260881C-28BD-411B-A302-69674E53792D}|Project6_ApiWeather\\Project6_ApiWeather.csproj|c:\\users\\musta\\source\\repos\\mynew20projects\\project6_apiweather\\controllers\\weatherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C260881C-28BD-411B-A302-69674E53792D}|Project6_ApiWeather\\Project6_ApiWeather.csproj|solutionrelative:project6_apiweather\\controllers\\weatherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_DapperNorthand\\Form1.cs",
-              "RelativeDocumentMoniker": "Project4_DapperNorthand\\Form1.cs",
-              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_DapperNorthand\\Form1.cs*",
-              "RelativeToolTip": "Project4_DapperNorthand\\Form1.cs*",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "WeathersController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project6_ApiWeather\\Controllers\\WeathersController.cs",
+              "RelativeDocumentMoniker": "Project6_ApiWeather\\Controllers\\WeathersController.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project6_ApiWeather\\Controllers\\WeathersController.cs",
+              "RelativeToolTip": "Project6_ApiWeather\\Controllers\\WeathersController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAlwD4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T14:46:12.766Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-06-13T11:24:21.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_DapperNorthand\\Form1.cs",
-              "RelativeDocumentMoniker": "Project4_DapperNorthand\\Form1.cs",
-              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_DapperNorthand\\Form1.cs [Design]*",
-              "RelativeToolTip": "Project4_DapperNorthand\\Form1.cs [Design]*",
+              "DocumentIndex": 0,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project7_ApiTodo\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "Project7_ApiTodo\\Controllers\\TodosController.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project7_ApiTodo\\Controllers\\TodosController.cs",
+              "RelativeToolTip": "Project7_ApiTodo\\Controllers\\TodosController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwB8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T14:44:31.906Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_DapperNorthand\\Repositories\\CategoryRepositories\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Project4_DapperNorthand\\Repositories\\CategoryRepositories\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project4_DapperNorthand\\Repositories\\CategoryRepositories\\ICategoryRepository.cs",
-              "RelativeToolTip": "Project4_DapperNorthand\\Repositories\\CategoryRepositories\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T14:16:46.687Z",
+              "WhenOpened": "2026-06-13T10:58:07.648Z",
               "EditorCaption": ""
             }
           ]

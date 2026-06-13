@@ -2,6 +2,8 @@
   <Project Path="Project1_Adonetcustomer/Project1_Adonetcustomer.csproj" Id="f932aff7-e93c-45e5-8755-ce612b6210fb" />
   <Project Path="Project2_EnitityFrameworkDbFirstProdcut/Project2_EnitityFrameworkDbFirstProdcut.csproj" Id="0081a6f5-5589-4415-b97a-5a16e8fdf033" />
   <Project Path="Project3_EntityFrameWorkStatistics/Project3_EntityFrameWorkStatistics.csproj" Id="fdba2cb6-8e1c-4d4b-8c8f-0116638e1ce0" />
-  <Project Path="Project4_DapperNorthand/Project5_DapperNorthand.csproj" Id="722e7a9f-46e6-4633-8c52-08aa9659a784" />
   <Project Path="Project4_EntityFrameworkCodeFirstMove/Project4_EntityFrameworkCodeFirstMove.csproj" Id="f6472be1-29d3-4c47-a968-c02e115043fa" />
+  <Project Path="Project5_DapperNorthand/Project5_DapperNorthand.csproj" Id="722e7a9f-46e6-4633-8c52-08aa9659a784" />
+  <Project Path="Project6_ApiWeather/Project6_ApiWeather.csproj" Id="c260881c-28bd-411b-a302-69674e53792d" />
+  <Project Path="Project7_ApiTodo/Project7_ApiTodo.csproj" Id="c9cc8646-f86b-4d4d-9e33-8447d9f18096" />
 </Solution>

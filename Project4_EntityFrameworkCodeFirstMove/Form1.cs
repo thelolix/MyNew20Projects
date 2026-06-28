@@ -64,5 +64,10 @@ namespace Project4_EntityFrameworkCodeFirstMove
             context.SaveChanges();
             
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

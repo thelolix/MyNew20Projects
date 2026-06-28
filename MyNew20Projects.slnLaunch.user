@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Project6_ApiWeather\\Project6_ApiWeather.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Project8_ApiWeatherConsume\\Project8_ApiWeatherConsume.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

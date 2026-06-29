@@ -1,0 +1,13 @@
+C:\Users\musta\source\repos\MyNew20Projects\Project9_RapidApiCurrency\bin\Debug\Project9_RapidApiCurrency.exe.config
+C:\Users\musta\source\repos\MyNew20Projects\Project9_RapidApiCurrency\bin\Debug\Project9_RapidApiCurrency.exe
+C:\Users\musta\source\repos\MyNew20Projects\Project9_RapidApiCurrency\bin\Debug\Project9_RapidApiCurrency.pdb
+C:\Users\musta\source\repos\MyNew20Projects\Project9_RapidApiCurrency\bin\Debug\Newtonsoft.Json.dll
+C:\Users\musta\source\repos\MyNew20Projects\Project9_RapidApiCurrency\bin\Debug\Newtonsoft.Json.xml
+C:\Users\musta\source\repos\MyNew20Projects\Project9_RapidApiCurrency\obj\Debug\Project9_RapidApiCurrency.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project9_RapidApiCurrency\obj\Debug\Project9_RapidApiCurrency.Form1.resources
+C:\Users\musta\source\repos\MyNew20Projects\Project9_RapidApiCurrency\obj\Debug\Project9_RapidApiCurrency.Properties.Resources.resources
+C:\Users\musta\source\repos\MyNew20Projects\Project9_RapidApiCurrency\obj\Debug\Project9_RapidApiCurrency.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project9_RapidApiCurrency\obj\Debug\Project9_RapidApiCurrency.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project9_RapidApiCurrency\obj\Debug\Project9.2D21B1D4.Up2Date
+C:\Users\musta\source\repos\MyNew20Projects\Project9_RapidApiCurrency\obj\Debug\Project9_RapidApiCurrency.exe
+C:\Users\musta\source\repos\MyNew20Projects\Project9_RapidApiCurrency\obj\Debug\Project9_RapidApiCurrency.pdb

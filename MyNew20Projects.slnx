@@ -7,4 +7,5 @@
   <Project Path="Project6_ApiWeather/Project6_ApiWeather.csproj" Id="c260881c-28bd-411b-a302-69674e53792d" />
   <Project Path="Project7_ApiTodo/Project7_ApiTodo.csproj" Id="c9cc8646-f86b-4d4d-9e33-8447d9f18096" />
   <Project Path="Project8_ApiWeatherConsume/Project8_ApiWeatherConsume.csproj" Id="df0eeabe-aebb-4f84-b9be-49fff41d5fff" />
+  <Project Path="Project9_RapidApiCurrency/Project9_RapidApiCurrency.csproj" Id="c64b1b9f-6fce-487c-b3dc-e8b292e0f1af" />
 </Solution>

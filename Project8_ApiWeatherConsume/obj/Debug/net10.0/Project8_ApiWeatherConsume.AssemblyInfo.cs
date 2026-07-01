@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project8_ApiWeatherConsume")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca5f25e36db1a532e5a79933461986448a2c8c60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68feca3596701c3230a78943576f16e8ef9b83ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project8_ApiWeatherConsume")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project8_ApiWeatherConsume")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

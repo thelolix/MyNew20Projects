@@ -14,7 +14,7 @@ namespace Project10_MongoDbOrder.Entities
         [BsonRepresentation(BsonType.ObjectId)] //Id leri object yapıyor
         public String OrderId { get; set; }
         public String CustomerName { get; set; }
-        public String Distiric { get; set; }
+        public String District { get; set; }
         public String City { get; set; }
         public decimal TotalPrice { get; set; }
     }

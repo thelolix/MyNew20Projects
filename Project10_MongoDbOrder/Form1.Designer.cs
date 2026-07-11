@@ -71,12 +71,13 @@
             // btnList
             // 
             this.btnList.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnList.Location = new System.Drawing.Point(366, 34);
+            this.btnList.Location = new System.Drawing.Point(365, 38);
             this.btnList.Name = "btnList";
-            this.btnList.Size = new System.Drawing.Size(89, 37);
+            this.btnList.Size = new System.Drawing.Size(100, 37);
             this.btnList.TabIndex = 2;
             this.btnList.Text = "Listele";
             this.btnList.UseVisualStyleBackColor = true;
+            this.btnList.Click += new System.EventHandler(this.btnList_Click);
             // 
             // dataGridView1
             // 
@@ -163,9 +164,9 @@
             // btnAdd
             // 
             this.btnAdd.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnAdd.Location = new System.Drawing.Point(366, 74);
+            this.btnAdd.Location = new System.Drawing.Point(365, 78);
             this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(89, 37);
+            this.btnAdd.Size = new System.Drawing.Size(100, 37);
             this.btnAdd.TabIndex = 12;
             this.btnAdd.Text = "Ekle";
             this.btnAdd.UseVisualStyleBackColor = true;
@@ -174,32 +175,35 @@
             // btnDelete
             // 
             this.btnDelete.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnDelete.Location = new System.Drawing.Point(366, 117);
+            this.btnDelete.Location = new System.Drawing.Point(365, 121);
             this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(89, 37);
+            this.btnDelete.Size = new System.Drawing.Size(100, 37);
             this.btnDelete.TabIndex = 13;
             this.btnDelete.Text = "Sil";
             this.btnDelete.UseVisualStyleBackColor = true;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // btnUpdate
             // 
             this.btnUpdate.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnUpdate.Location = new System.Drawing.Point(366, 160);
+            this.btnUpdate.Location = new System.Drawing.Point(365, 164);
             this.btnUpdate.Name = "btnUpdate";
-            this.btnUpdate.Size = new System.Drawing.Size(89, 37);
+            this.btnUpdate.Size = new System.Drawing.Size(100, 37);
             this.btnUpdate.TabIndex = 14;
             this.btnUpdate.Text = "Güncelle";
             this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnGetById
             // 
             this.btnGetById.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnGetById.Location = new System.Drawing.Point(366, 203);
+            this.btnGetById.Location = new System.Drawing.Point(365, 207);
             this.btnGetById.Name = "btnGetById";
-            this.btnGetById.Size = new System.Drawing.Size(89, 37);
+            this.btnGetById.Size = new System.Drawing.Size(100, 37);
             this.btnGetById.TabIndex = 15;
             this.btnGetById.Text = "Getir";
             this.btnGetById.UseVisualStyleBackColor = true;
+            this.btnGetById.Click += new System.EventHandler(this.btnGetById_Click);
             // 
             // pictureBox1
             // 

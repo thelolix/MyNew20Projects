@@ -1085,6 +1085,15 @@
         "build": {
           "buildTransitive/net8.0/_._": {}
         }
+      },
+      "Project11_MongoDbOrder/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Project11_MongoDbOrder.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Project11_MongoDbOrder.dll": {}
+        }
       }
     }
   },
@@ -3186,6 +3195,11 @@
         "system.security.cryptography.protecteddata.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Project11_MongoDbOrder/1.0.0": {
+      "type": "project",
+      "path": "../Project10_MongoDbOrder/Project11_MongoDbOrder.csproj",
+      "msbuildProject": "../Project10_MongoDbOrder/Project11_MongoDbOrder.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3195,6 +3209,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 10.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.9",
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.9",
+      "Project11_MongoDbOrder >= 1.0.0",
       "Scalar.AspNetCore >= 2.16.3"
     ]
   },
@@ -3231,7 +3246,11 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project10_MongoDbOrder\\Project11_MongoDbOrder.csproj": {
+              "projectPath": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project10_MongoDbOrder\\Project11_MongoDbOrder.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -3716,5 +3735,17 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

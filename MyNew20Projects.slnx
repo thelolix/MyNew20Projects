@@ -1,5 +1,7 @@
 <Solution>
-  <Project Path="Project10_MongoDbOrder/Project10_MongoDbOrder.csproj" Id="3ff12e3b-a20a-473d-af41-a1fb9fe30b44" />
+  <Project Path="Project10_MongoDbOrder/Project11_MongoDbOrder.csproj" Id="3ff12e3b-a20a-473d-af41-a1fb9fe30b44" />
+  <Project Path="Project10_RadApiWeather/Project10_RadApiWeather.csproj" Id="8295ac6d-113f-4b0c-a373-c6e41e95ff00" />
+  <Project Path="Project12_TriggerOrder/Project12_TriggerOrder.csproj" Id="2a7af28a-affd-497d-b21a-3e9804c42be7" />
   <Project Path="Project1_Adonetcustomer/Project1_Adonetcustomer.csproj" Id="f932aff7-e93c-45e5-8755-ce612b6210fb" />
   <Project Path="Project2_EnitityFrameworkDbFirstProdcut/Project2_EnitityFrameworkDbFirstProdcut.csproj" Id="0081a6f5-5589-4415-b97a-5a16e8fdf033" />
   <Project Path="Project3_EntityFrameWorkStatistics/Project3_EntityFrameWorkStatistics.csproj" Id="fdba2cb6-8e1c-4d4b-8c8f-0116638e1ce0" />

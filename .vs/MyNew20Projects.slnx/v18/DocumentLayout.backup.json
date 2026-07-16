@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FF12E3B-A20A-473D-AF41-A1FB9FE30B44}|Project10_MongoDbOrder\\Project10_MongoDbOrder.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project10_mongodborder\\servicees\\orderoparestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FF12E3B-A20A-473D-AF41-A1FB9FE30B44}|Project10_MongoDbOrder\\Project10_MongoDbOrder.csproj|solutionrelative:project10_mongodborder\\servicees\\orderoparestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A7AF28A-AFFD-497D-B21A-3E9804C42BE7}|Project12_TriggerOrder\\Project12_TriggerOrder.csproj|c:\\users\\musta\\source\\repos\\mynew20projects\\project12_triggerorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7AF28A-AFFD-497D-B21A-3E9804C42BE7}|Project12_TriggerOrder\\Project12_TriggerOrder.csproj|solutionrelative:project12_triggerorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FF12E3B-A20A-473D-AF41-A1FB9FE30B44}|Project10_MongoDbOrder\\Project10_MongoDbOrder.csproj|c:\\users\\musta\\source\\repos\\mynew20projects\\project10_mongodborder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FF12E3B-A20A-473D-AF41-A1FB9FE30B44}|Project10_MongoDbOrder\\Project10_MongoDbOrder.csproj|solutionrelative:project10_mongodborder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A7AF28A-AFFD-497D-B21A-3E9804C42BE7}|Project12_TriggerOrder\\Project12_TriggerOrder.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project12_triggerorder\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2A7AF28A-AFFD-497D-B21A-3E9804C42BE7}|Project12_TriggerOrder\\Project12_TriggerOrder.csproj|solutionrelative:project12_triggerorder\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FF12E3B-A20A-473D-AF41-A1FB9FE30B44}|Project10_MongoDbOrder\\Project10_MongoDbOrder.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project10_mongodborder\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FF12E3B-A20A-473D-AF41-A1FB9FE30B44}|Project10_MongoDbOrder\\Project10_MongoDbOrder.csproj|solutionrelative:project10_mongodborder\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A7AF28A-AFFD-497D-B21A-3E9804C42BE7}|Project12_TriggerOrder\\Project12_TriggerOrder.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project12_triggerorder\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2A7AF28A-AFFD-497D-B21A-3E9804C42BE7}|Project12_TriggerOrder\\Project12_TriggerOrder.csproj|solutionrelative:project12_triggerorder\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AF28A-AFFD-497D-B21A-3E9804C42BE7}|Project12_TriggerOrder\\Project12_TriggerOrder.csproj|C:\\Users\\musta\\source\\repos\\MyNew20Projects\\project12_triggerorder\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2A7AF28A-AFFD-497D-B21A-3E9804C42BE7}|Project12_TriggerOrder\\Project12_TriggerOrder.csproj|solutionrelative:project12_triggerorder\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project10_MongoDbOrder\\Form1.cs",
-              "RelativeDocumentMoniker": "Project10_MongoDbOrder\\Form1.cs",
-              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project10_MongoDbOrder\\Form1.cs*",
-              "RelativeToolTip": "Project10_MongoDbOrder\\Form1.cs*",
-              "ViewState": "AgIAADoAAAAAAAAAAAAawE0AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T16:13:51.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderOparestion.cs",
-              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project10_MongoDbOrder\\Servicees\\OrderOparestion.cs",
-              "RelativeDocumentMoniker": "Project10_MongoDbOrder\\Servicees\\OrderOparestion.cs",
-              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project10_MongoDbOrder\\Servicees\\OrderOparestion.cs*",
-              "RelativeToolTip": "Project10_MongoDbOrder\\Servicees\\OrderOparestion.cs*",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAmwFkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T17:17:54.036Z",
-              "EditorCaption": ""
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project12_TriggerOrder\\App.config",
+              "RelativeDocumentMoniker": "Project12_TriggerOrder\\App.config",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project12_TriggerOrder\\App.config",
+              "RelativeToolTip": "Project12_TriggerOrder\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-07-15T12:48:29.031Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project10_MongoDbOrder\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Project10_MongoDbOrder\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project10_MongoDbOrder\\Entities\\Order.cs",
-              "RelativeToolTip": "Project10_MongoDbOrder\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project12_TriggerOrder\\packages.config",
+              "RelativeDocumentMoniker": "Project12_TriggerOrder\\packages.config",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project12_TriggerOrder\\packages.config",
+              "RelativeToolTip": "Project12_TriggerOrder\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-07-15T12:48:24.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project12_TriggerOrder\\Program.cs",
+              "RelativeDocumentMoniker": "Project12_TriggerOrder\\Program.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project12_TriggerOrder\\Program.cs*",
+              "RelativeToolTip": "Project12_TriggerOrder\\Program.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T17:18:19.066Z",
+              "WhenOpened": "2026-07-15T12:23:51.748Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project12_TriggerOrder\\Model1.edmx",
+              "RelativeDocumentMoniker": "Project12_TriggerOrder\\Model1.edmx",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\MyNew20Projects\\Project12_TriggerOrder\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Project12_TriggerOrder\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-07-15T12:44:21.664Z"
             }
           ]
         }

@@ -1,0 +1,12 @@
+C:\Users\musta\source\repos\MyNew20Projects\Project12_TriggerOrder\obj\Debug\Project12_TriggerOrder.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project12_TriggerOrder\obj\Debug\Project12_TriggerOrder.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project12_TriggerOrder\bin\Debug\Project12_TriggerOrder.exe.config
+C:\Users\musta\source\repos\MyNew20Projects\Project12_TriggerOrder\bin\Debug\Project12_TriggerOrder.exe
+C:\Users\musta\source\repos\MyNew20Projects\Project12_TriggerOrder\bin\Debug\Project12_TriggerOrder.pdb
+C:\Users\musta\source\repos\MyNew20Projects\Project12_TriggerOrder\bin\Debug\EntityFramework.dll
+C:\Users\musta\source\repos\MyNew20Projects\Project12_TriggerOrder\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\musta\source\repos\MyNew20Projects\Project12_TriggerOrder\bin\Debug\EntityFramework.xml
+C:\Users\musta\source\repos\MyNew20Projects\Project12_TriggerOrder\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\musta\source\repos\MyNew20Projects\Project12_TriggerOrder\obj\Debug\Project1.3C68AFFF.Up2Date
+C:\Users\musta\source\repos\MyNew20Projects\Project12_TriggerOrder\obj\Debug\Project12_TriggerOrder.exe
+C:\Users\musta\source\repos\MyNew20Projects\Project12_TriggerOrder\obj\Debug\Project12_TriggerOrder.pdb

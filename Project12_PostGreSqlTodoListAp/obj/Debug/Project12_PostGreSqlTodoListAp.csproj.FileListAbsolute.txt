@@ -1,0 +1,10 @@
+C:\Users\musta\source\repos\MyNew20Projects\Project12_PostGreSqlTodoListAp\bin\Debug\Project12_PostGreSqlTodoListAp.exe.config
+C:\Users\musta\source\repos\MyNew20Projects\Project12_PostGreSqlTodoListAp\bin\Debug\Project12_PostGreSqlTodoListAp.exe
+C:\Users\musta\source\repos\MyNew20Projects\Project12_PostGreSqlTodoListAp\bin\Debug\Project12_PostGreSqlTodoListAp.pdb
+C:\Users\musta\source\repos\MyNew20Projects\Project12_PostGreSqlTodoListAp\obj\Debug\Project12_PostGreSqlTodoListAp.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project12_PostGreSqlTodoListAp\obj\Debug\Project12_PostGreSqlTodoListAp.Form1.resources
+C:\Users\musta\source\repos\MyNew20Projects\Project12_PostGreSqlTodoListAp\obj\Debug\Project12_PostGreSqlTodoListAp.Properties.Resources.resources
+C:\Users\musta\source\repos\MyNew20Projects\Project12_PostGreSqlTodoListAp\obj\Debug\Project12_PostGreSqlTodoListAp.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project12_PostGreSqlTodoListAp\obj\Debug\Project12_PostGreSqlTodoListAp.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project12_PostGreSqlTodoListAp\obj\Debug\Project12_PostGreSqlTodoListAp.exe
+C:\Users\musta\source\repos\MyNew20Projects\Project12_PostGreSqlTodoListAp\obj\Debug\Project12_PostGreSqlTodoListAp.pdb

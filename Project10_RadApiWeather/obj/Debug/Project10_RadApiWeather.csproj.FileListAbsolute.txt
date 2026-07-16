@@ -1,0 +1,13 @@
+C:\Users\musta\source\repos\MyNew20Projects\Project10_RadApiWeather\bin\Debug\Project10_RadApiWeather.exe.config
+C:\Users\musta\source\repos\MyNew20Projects\Project10_RadApiWeather\bin\Debug\Project10_RadApiWeather.exe
+C:\Users\musta\source\repos\MyNew20Projects\Project10_RadApiWeather\bin\Debug\Project10_RadApiWeather.pdb
+C:\Users\musta\source\repos\MyNew20Projects\Project10_RadApiWeather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\musta\source\repos\MyNew20Projects\Project10_RadApiWeather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\musta\source\repos\MyNew20Projects\Project10_RadApiWeather\obj\Debug\Project10_RadApiWeather.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project10_RadApiWeather\obj\Debug\Project10_RadApiWeather.Form1.resources
+C:\Users\musta\source\repos\MyNew20Projects\Project10_RadApiWeather\obj\Debug\Project10_RadApiWeather.Properties.Resources.resources
+C:\Users\musta\source\repos\MyNew20Projects\Project10_RadApiWeather\obj\Debug\Project10_RadApiWeather.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project10_RadApiWeather\obj\Debug\Project10_RadApiWeather.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\MyNew20Projects\Project10_RadApiWeather\obj\Debug\Project1.434BA10F.Up2Date
+C:\Users\musta\source\repos\MyNew20Projects\Project10_RadApiWeather\obj\Debug\Project10_RadApiWeather.exe
+C:\Users\musta\source\repos\MyNew20Projects\Project10_RadApiWeather\obj\Debug\Project10_RadApiWeather.pdb

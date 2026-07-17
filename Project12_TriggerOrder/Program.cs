@@ -42,7 +42,7 @@ namespace Project12_TriggerOrder
                 }
 
             }
-            else if (number == "2") 
+             if (number == "2") 
             {
                 var value = context.TblOrder.ToList();
                 Console.WriteLine("Ürün Listesi\n----------------------------");
@@ -51,7 +51,7 @@ namespace Project12_TriggerOrder
                     Console.WriteLine($"{item.OrderId}-) {item.TblProduct.ProductName} | Fiyat: {item.UnitPrice} | Adet: {item.Quantity} Toplam Fiyat: {item.TotalPrice} TL");
                 }
             }
-            else if(number == "3")
+             if(number == "3")
             {
                 var value = context.TblCashRegister.ToList();
                 Console.WriteLine("Ürün Listesi\n----------------------------");
@@ -60,7 +60,7 @@ namespace Project12_TriggerOrder
                     Console.WriteLine($"{item.CashRegisterId}-)Kasadaki toplam tutar \n{item.Balance}");
                 }
             }
-            else if (number == "4")
+             if (number == "4")
             {
                 Console.WriteLine("----- Yeni Sipariş Girişi ----");
                 Console.Write("Müşeti Adı: ");
@@ -71,7 +71,7 @@ namespace Project12_TriggerOrder
                 int quantity = int.Parse(Console.ReadLine());
                 Console.WriteLine();
 
-                Console.Write("---Ürün Bilgileri---");
+                Console.Write("---Ürün Bilgileri---\n");
 
                 var productName = context.TblProduct.Where(x => x.ProductId == productId).Select(y=>y.ProductName).FirstOrDefault();
                 Console.WriteLine("Ürün Adı: " + productName);
@@ -84,13 +84,32 @@ namespace Project12_TriggerOrder
                 decimal Totalprice = quantity* decimal.Parse(productPrice.ToString());
                 Console.Write("Toplam Fiyat: " + Totalprice);
 
+
+
+                TblOrder tblOrder = new TblOrder();
+                tblOrder.TotalPrice = Totalprice;
+                tblOrder.ProductId = productId;
+                tblOrder.UnitPrice = productPrice;
+                tblOrder.Quantity = quantity;
+                tblOrder.Customer = name;
+
+                context.TblOrder.Add(tblOrder);
+                context.SaveChanges();
+
+
             }
 
-            else if (number == "5")
+             if (number == "5")
             {
                 var value = context.TblProces.Select(x => x.Process).FirstOrDefault();
                 Console.WriteLine("Toplam İşlem Sayısı: " + value);
             }
+
+
+
+            
+            
+
 
             Console.Read();
         
